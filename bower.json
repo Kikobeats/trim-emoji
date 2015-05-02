@@ -1,0 +1,27 @@
+{
+  "name": "trim-emoji",
+  "description": "Deletes ':' from the begin and the end of an emoji shortcut.",
+  "homepage": "https://github.com/Kikobeats/trim-emoji",
+  "version": "0.0.0",
+  "main": "./dist/trim-emoji.js",
+  "authors": [
+    {
+      "name": "Kiko Beats",
+      "email": "josefrancisco.verdu@gmail.com",
+      "homepage": "https://github.com/Kikobeats"
+    }
+  ],
+  "repository": "Kikobeats/trim-emoji",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/trim-emoji/issues"
+  },
+  "keywords": [],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
