@@ -34,6 +34,14 @@ var trimEmoji = require('trim-emoji');
 trimEmoji(':heart:') // => 'heart'
 ```
 
+## Related
+
+* [emojis-list](https://github.com/Kikobeats/emojis-list) – Complete list of standard emojis.
+* [emojis-keywords](https://github.com/Kikobeats/emojis-keywords) – Complete list of am emoji shortcuts.
+* [emojis-unicode](https://github.com/Kikobeats/emojis-unicode) – Complete list of standard Unicode codes that represent emojis.
+* [is-standard-emoji](https://github.com/kikobeats/is-standard-emoji) – Simply way to check if a emoji is a standard emoji. 
+* [is-emoji-keyword](https://github.com/Kikobeats/is-emoji-keyword) – Check if a word is a emoji shortcut.
+
 ## License
 
 MIT © [Kiko Beats](http://www.kikobeats.com)
