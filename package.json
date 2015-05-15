@@ -13,9 +13,13 @@
   "bugs": {
     "url": "https://github.com/Kikobeats/trim-emoji/issues"
   },
-  "keywords": ["emoji", "trim"],
+  "keywords": [
+    "emoji",
+    "trim"
+  ],
   "dependencies": {},
   "devDependencies": {
+    "coffee-script": "*",
     "browserify": "*",
     "gulp": "*",
     "gulp-header": "*",
