@@ -1,5 +1,7 @@
 # trim-emoji
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/trim-emoji.svg)](https://greenkeeper.io/)
+
 [![Build Status](http://img.shields.io/travis/Kikobeats/trim-emoji/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/trim-emoji)
 [![Dependency status](http://img.shields.io/david/Kikobeats/trim-emoji.svg?style=flat-square)](https://david-dm.org/Kikobeats/trim-emoji)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/trim-emoji.svg?style=flat-square)](https://david-dm.org/Kikobeats/trim-emoji#info=devDependencies)
