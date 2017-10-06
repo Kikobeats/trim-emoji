@@ -19,16 +19,16 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "coffee-script": "*",
-    "browserify": "*",
-    "gulp": "*",
-    "gulp-header": "*",
-    "gulp-uglify": "*",
-    "gulp-util": "*",
-    "mocha": "*",
-    "should": "*",
-    "vinyl-buffer": "*",
-    "vinyl-source-stream": "*"
+    "coffee-script": "latest",
+    "browserify": "latest",
+    "gulp": "latest",
+    "gulp-header": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest"
   },
   "engines": {
     "node": ">= 0.10.0",
